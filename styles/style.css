@@ -40,7 +40,7 @@
 
 .header_address-link {
     font-size: 18px;
-    line-height: 24.3px; 
+    line-height: 24.3px;
 }
 
 .address_menu_items {
@@ -52,11 +52,6 @@
     flex-direction: column;
     justify-self: end;
     align-items: flex-start;
-}
-
-.header_address-link {
-    font-size: 18px;
-    line-height: 24.3px;
 }
 
 .cover {
@@ -129,7 +124,7 @@
     font-size: 22px;
     line-height: 28px;
     text-transform: uppercase;
-    word-spacing: 18px;   
+    word-spacing: 18px;
 }
 
 .bet-button {
@@ -184,7 +179,7 @@
     display: flex;
     flex-direction: column;
     width: 334px;
-    height: 596px;  
+    height: 596px;
 }
 
 .card__title {
@@ -239,7 +234,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 30px 47px;  
+    margin: 30px 47px;
 }
 
 .about__logo-image {
@@ -297,16 +292,16 @@
 
 .footer__menu-link {
     font-size: 18px;
-    line-height: 24.3px; 
+    line-height: 24.3px;
 }
 
 .footer__menu_address-link {
     font-size: 18px;
-    line-height: 24.3px;   
+    line-height: 24.3px;
 }
 
 .footer__menu_adderess {
-   padding: 0 0 82px 50px; 
+   padding: 0 0 82px 50px;
 }
 
 .footer__menu-list {
